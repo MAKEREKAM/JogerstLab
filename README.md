@@ -15,5 +15,6 @@ YouTube 검색창에 '요거스트'라는 단어를 입력할 시 발생하는 �
 ```
 - 요거스트
   - unitychantoonshader
+    - unitychantoonshader (재귀)
   - onphotonserializeview
 ```
