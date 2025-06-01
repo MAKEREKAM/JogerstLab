@@ -17,4 +17,9 @@ YouTube 검색창에 '요거스트'라는 단어를 입력할 시 발생하는 �
   - unitychantoonshader
     - unitychantoonshader (재귀)
   - onphotonserializeview
+    - onphotonserializeview (재귀)
+    - wemission
+      - wemission (재귀)
+      - ic_franej6bg
+        - ic_franej6bg (재귀)
 ```
